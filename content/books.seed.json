@@ -1,0 +1,204 @@
+{
+  "schema_version": "0.1.0",
+  "language": "en",
+  "collection_name": "The Blue-Hour Atrium",
+  "world_state": "simulated",
+  "rights_note": "Original draft fiction for TDA. Publication/licensing terms reserved to repository owner.",
+  "books": [
+    {
+      "id": "tda-living-worlds-001",
+      "title": "The Book of Living Worlds",
+      "subtitle": "Notes from Places That Learned to Breathe",
+      "author_display": "Anonymous field collector",
+      "shelf": "Wonder & Natural Philosophy",
+      "tags": [
+        "living worlds",
+        "ecology",
+        "cities",
+        "wonder"
+      ],
+      "estimated_read_minutes": 2,
+      "teaser": "A field notebook about impossible places, and the very ordinary people who keep them alive.",
+      "opening_excerpt": "At the edge of the northern district stood a city that kept its weather indoors. Its citizens carried folded umbrellas in their pockets, not because rain was expected, but because the old streets sometimes remembered it. In one narrow house, a woman grew a small summer beside her kitchen sink. She watered it twice a week. When the first thunder arrived, she opened the window so the neighbours could hear. I had come to catalogue the city's unusual climate. By the third day, I understood that I was really documenting the ways people made room for one another.",
+      "detail_layers": {
+        "surface": "An atlas of improbable ecosystems and the people who care for them.",
+        "margin": {
+          "anchor": "a city that kept its weather indoors",
+          "text": "The field collector describes weather as a shared memory rather than a force of nature. Notice how practical household acts become climate stewardship."
+        },
+        "research": {
+          "title": "Worlds sustained by care",
+          "question": "What changes when a place is defined by its maintenance instead of its monuments?",
+          "related_ids": [
+            "tda-gentle-machinery-003",
+            "tda-underground-weather-005"
+          ]
+        }
+      },
+      "note_prompt": "Where in your own life does a small act of maintenance make a world possible?",
+      "is_fictional": true,
+      "provenance": {
+        "kind": "tda_original_fiction",
+        "attribution": "TDA original narrative draft",
+        "real_world_availability": false,
+        "external_text_rights": "not_applicable"
+      }
+    },
+    {
+      "id": "tda-borrowed-hours-002",
+      "title": "The Atlas of Borrowed Hours",
+      "subtitle": "A Cartography of Almost-Forgotten Afternoons",
+      "author_display": "E. Vale, provisional cartographer",
+      "shelf": "Time & Memory",
+      "tags": [
+        "time",
+        "memory",
+        "maps",
+        "attention"
+      ],
+      "estimated_read_minutes": 2,
+      "teaser": "Maps for the afternoons that passed unnoticed but changed everything.",
+      "opening_excerpt": "The first map was blank except for a bench, a patch of sun, and a date I could not remember. I sat there for what felt like a minute. By the time I stood, the page had acquired a street, two bicycles, and the outline of someone waiting beneath a tree. The atlas did not record where I had been. It recorded the hours to which I had not paid sufficient attention. Every landmark was drawn in a slightly hesitant ink, as though the cartographer had wanted to leave me room to disagree.",
+      "detail_layers": {
+        "surface": "A set of maps that appears to grow whenever the reader remembers something.",
+        "margin": {
+          "anchor": "the hours to which I had not paid sufficient attention",
+          "text": "The narrator's map is not a record of efficiency. It is an invitation to value unnoticed experience."
+        },
+        "research": {
+          "title": "Attention as cartography",
+          "question": "If a map represented emotional significance instead of distance, what would become its landmarks?",
+          "related_ids": [
+            "tda-quiet-disappearances-004",
+            "tda-living-worlds-001"
+          ]
+        }
+      },
+      "note_prompt": "Sketch a place that mattered to you for reasons no conventional map would show.",
+      "is_fictional": true,
+      "provenance": {
+        "kind": "tda_original_fiction",
+        "attribution": "TDA original narrative draft",
+        "real_world_availability": false,
+        "external_text_rights": "not_applicable"
+      }
+    },
+    {
+      "id": "tda-gentle-machinery-003",
+      "title": "The Gentle Machinery of Night",
+      "subtitle": "Repair Manuals for Things That Cannot Be Replaced",
+      "author_display": "The Midnight Workshop",
+      "shelf": "Machines & Making",
+      "tags": [
+        "machines",
+        "repair",
+        "craft",
+        "care"
+      ],
+      "estimated_read_minutes": 2,
+      "teaser": "A manual in which every repair begins by asking what the object means to someone.",
+      "opening_excerpt": "The workshop was open only after sunset. People brought stopped watches, cracked lanterns, music boxes that had forgotten their songs. The mechanic asked no questions about age or value. She placed each object on a folded cloth and waited for its owner to tell her what they missed. Some repairs required brass gears. Others required a note delivered, an apology spoken, or a chair set beside the workbench. In the register she kept two columns: what was broken, and what might be restored. She never assumed the answers were the same.",
+      "detail_layers": {
+        "surface": "Technical drawings mingle with stories of attachment and repair.",
+        "margin": {
+          "anchor": "what was broken, and what might be restored",
+          "text": "The workshop distinguishes a machine's mechanical defect from the human hope carried into the room."
+        },
+        "research": {
+          "title": "A humane repair protocol",
+          "question": "What would an engineering process look like if it considered emotional and social function from the first step?",
+          "related_ids": [
+            "tda-living-worlds-001",
+            "tda-quiet-disappearances-004"
+          ]
+        }
+      },
+      "note_prompt": "Describe an object you would repair even if replacing it were cheaper.",
+      "is_fictional": true,
+      "provenance": {
+        "kind": "tda_original_fiction",
+        "attribution": "TDA original narrative draft",
+        "real_world_availability": false,
+        "external_text_rights": "not_applicable"
+      }
+    },
+    {
+      "id": "tda-quiet-disappearances-004",
+      "title": "A Catalogue of Quiet Disappearances",
+      "subtitle": "An Archivist's Small Book of Absences",
+      "author_display": "M. Rowan, archivist",
+      "shelf": "Archives & Absence",
+      "tags": [
+        "archives",
+        "memory",
+        "loss",
+        "observation"
+      ],
+      "estimated_read_minutes": 2,
+      "teaser": "An archive of things that vanish without ever making the news.",
+      "opening_excerpt": "The catalogue began with a missing shop sign. By winter, it contained the names of retired bus routes, a staircase sealed behind plaster, the last public telephone in a coastal village, and a recipe passed down without measurements. Visitors often asked why the archivist recorded things too small to matter. She would open a drawer and hand them a blank card. 'Write down something you expect will always be there,' she said. 'Then bring the card back in ten years.' The drawer was nearly full. That was why she kept making room.",
+      "detail_layers": {
+        "surface": "A quiet archive that asks what survives without being recorded.",
+        "margin": {
+          "anchor": "Write down something you expect will always be there",
+          "text": "A gentle reversal: the archive records the present as if it were already endangered."
+        },
+        "research": {
+          "title": "The ethics of keeping",
+          "question": "What deserves preserving, and who gets to decide that it was important?",
+          "related_ids": [
+            "tda-borrowed-hours-002",
+            "tda-underground-weather-005"
+          ]
+        }
+      },
+      "note_prompt": "What everyday sound, route, ritual, or phrase would you wish someone had recorded?",
+      "is_fictional": true,
+      "provenance": {
+        "kind": "tda_original_fiction",
+        "attribution": "TDA original narrative draft",
+        "real_world_availability": false,
+        "external_text_rights": "not_applicable"
+      }
+    },
+    {
+      "id": "tda-underground-weather-005",
+      "title": "Field Guide to Weather Below Ground",
+      "subtitle": "Notes from the Rain That Fell Upwards",
+      "author_display": "Iona Marsh, subterranean observer",
+      "shelf": "Wonder & Natural Philosophy",
+      "tags": [
+        "weather",
+        "underground",
+        "field notes",
+        "exploration"
+      ],
+      "estimated_read_minutes": 2,
+      "teaser": "A naturalist follows a change in pressure down a staircase that should not exist.",
+      "opening_excerpt": "The barometer began to rise as I descended. By the ninth landing, I could hear rain striking the underside of the steps. At the twelfth, a soft wind lifted the pages of my notebook toward the floor above. I should have turned back. Instead, I marked the direction of the air, measured the chill against my wrist, and wrote down a question with no sensible answer. The first rule of the field guide is this: if the world surprises you, describe what you see before deciding what it means.",
+      "detail_layers": {
+        "surface": "An impossible field guide written with the patience of a careful scientist.",
+        "margin": {
+          "anchor": "describe what you see before deciding what it means",
+          "text": "Observation and interpretation are deliberately separated. The wonder is stronger because the narrator resists an immediate explanation."
+        },
+        "research": {
+          "title": "Observation before explanation",
+          "question": "How could a notebook distinguish measured evidence, tentative inference, and imaginative hypothesis?",
+          "related_ids": [
+            "tda-living-worlds-001",
+            "tda-gentle-machinery-003"
+          ]
+        }
+      },
+      "note_prompt": "Record one surprising observation today without explaining it straight away.",
+      "is_fictional": true,
+      "provenance": {
+        "kind": "tda_original_fiction",
+        "attribution": "TDA original narrative draft",
+        "real_world_availability": false,
+        "external_text_rights": "not_applicable"
+      }
+    }
+  ]
+}
