@@ -6,15 +6,19 @@ A virtual bookshop and library where curiosity becomes an explorable place.
 
 ## The first playable experience
 
-Enter a quiet bookshop at blue hour. Pick up a book. Read a passage. Select a phrase to unfold marginalia and a deeper thread of ideas. Save the thought as Markdown. Switch between Explore, Study, Research and Quiet modes without losing your place.
+Enter a recognizable, human-scale bookshop at blue hour. Discover books through shelves and covers. Pick up an item and read an available, rights-permitted passage or a clearly fictional demo text. Select a phrase to unfold marginalia and a deeper thread of ideas. Save the thought as Markdown. Switch between Explore, Study, Research and Quiet modes without losing your place.
 
 The first version is **entirely virtual and simulated**, with no live bookshop inventory or real-world space synchronization. A future Sydney bookshop integration is an aspiration, not an implemented feature.
 
 ## Materials
 
+- [Art direction and everyday-bookshop product anchor](docs/ART_DIRECTION.md): primary visual and browsing principles.
+- [Player-facing content pack](docs/CONTENT_PACK.md): draft copy and sample journals.
+- [Claude creative handoff](docs/CLAUDE_CREATIVE_HANDOFF.md): implementation review criteria.
+- [Existing concept-art set](assets/concept/): everyday bookshop, grand bookshop and living page.
 - [Experience and content design v0.1](content/experience-seed-v0.1.md): narrative premise, rooms, first 90 seconds, modes, interaction contracts and MVP checks.
-- [Original fictional volume seed data](content/books.seed.json): five original explorable works with opening passages, marginalia and research threads.
-- [Index Alcove — environment concept](art/concepts/tda-index-alcove-v01.png): concept illustration for spatial and material direction; **not** a finished game level or asset pack.
+- [Original fictional volume seed data](content/books.seed.json): five fictional **demo reading fixtures (not real books for sale)** with opening passages, marginalia and research threads.
+- [Index Alcove — additional environment concept](art/concepts/tda-index-alcove-v01.png): concept illustration for spatial and material direction; **not** a finished game level or asset pack.
 
 ## Design commitments
 
