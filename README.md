@@ -18,6 +18,7 @@ The first version is **entirely virtual and simulated**, with no live bookshop i
 - [Existing concept-art set](assets/concept/): everyday bookshop, grand bookshop and living page.
 - [Experience and content design v0.1](content/experience-seed-v0.1.md): narrative premise, rooms, first 90 seconds, modes, interaction contracts and MVP checks.
 - [Original fictional volume seed data](content/books.seed.json): five fictional **demo reading fixtures (not real books for sale)** with opening passages, marginalia and research threads.
+- [Margin Table — reading alcove concept](art/concepts/tda-margin-table-v01.png): additional environment concept for the deep-reading interaction, **not** a functional UI screenshot.
 - [Index Alcove — additional environment concept](art/concepts/tda-index-alcove-v01.png): concept illustration for spatial and material direction; **not** a finished game level or asset pack.
 
 ## Design commitments
