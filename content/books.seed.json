@@ -200,5 +200,8 @@
         "external_text_rights": "not_applicable"
       }
     }
-  ]
+  ],
+  "catalog_role": "demo_fictional_reading_fixtures",
+  "not_for_sale": true,
+  "usage_note": "For offline interaction prototyping and explicitly labeled original-fiction discoveries; not a stand-in for verified real book catalogue content."
 }
