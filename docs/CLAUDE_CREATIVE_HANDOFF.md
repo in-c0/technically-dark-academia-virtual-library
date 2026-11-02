@@ -29,3 +29,15 @@ Share a real interactive build or recording of the *book browsing loop*, plus sc
 
 ## Content implementation
 The game-copy file contains a draft Steam short/long description, entry flow, 10 environment zones, in-world microcopy, 12 journaling prompts, 3 original journal entries, and initial Korean localization. Use it as source material. Publish Steam copy only after checking every stated feature against a verified build.
+
+
+## Supplemental deep-reading slice (2026-11-02)
+
+A separate, testable reading-and-notes content package is now available:
+- `content/experience-seed-v0.1.md` — staged 90-second reading loop, progressive disclosure, four modes and acceptance checks.
+- `content/books.seed.json` — **five original fictional demo fixtures**, with marginalia and research links. They are **not real published books, current stock, licensed excerpts, or sale listings**.
+- `art/concepts/tda-margin-table-v01.png` and `art/concepts/tda-index-alcove-v01.png` — additional AI-generated environment concept paintings. Not game geometry, UI, or verified scene renders.
+
+Treat `docs/ART_DIRECTION.md`'s human-scale **everyday bookshop** as the primary first-playable setting. The supplemental reading slice belongs inside that broader experience and must not replace real-book browsing with a fictional catalogue. For offline proof-of-interaction, label demo fixtures in-world and include a provenance indicator.
+
+Minimum demonstrable implementation: open a fixture; inspect a passage; select an annotated phrase; expand a second context layer; return to the exact reading position; copy a truthful Markdown excerpt/note; switch Browse/Study/Research/Quiet without discarding state. Verify actual keyboard use and a readable 1080p view. Report what is implemented separately from planned.
