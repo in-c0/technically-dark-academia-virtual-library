@@ -5,7 +5,7 @@
 
 ## Product premise
 
-TDA begins as a self-contained fictional space on desktop/Steam. There is **no live synchronization with a physical bookshop** in this first release. Public catalogue data may enrich discoverability later, but fictional shelves, simulated stock, and real-world bibliographic records must be clearly distinguished.
+TDA begins as a self-contained virtual space on desktop/Steam. The everyday, human-scale bookshop in `docs/ART_DIRECTION.md` is the primary first-playable browsing reference. This document contributes a **focused deep-reading and marginalia vertical slice**, not a replacement for that broader product direction. The five accompanying invented volumes are explicitly labeled demo fixtures, never presented as real published or purchasable books. There is **no live synchronization with a physical bookshop** in this first release. Public catalogue data may enrich discoverability later, but fictional shelves, simulated stock, and real-world bibliographic records must be clearly distinguished.
 
 The central interaction is not simply browsing a 3D room. A reader should be able to:
 
@@ -52,7 +52,7 @@ Modes are independent of room location. Avoid creating four different â€œworldsâ
 ## First rooms
 
 ### The Blue-Hour Atrium
-Entry and playful discovery. Tall shelving, a broad window, warm pools of practical reading light, and an armillary sculpture. No floating feature-menu billboards. A small cluster of hand-authored books guides the first interaction.
+Optional atmospheric / later-zone interpretation; the initial browsable shop should follow the everyday-bookshop anchor. Entry and playful discovery. Tall shelving, a broad window, warm pools of practical reading light, and an armillary sculpture. No floating feature-menu billboards. A small cluster of hand-authored books guides the first interaction.
 
 ### The Margin Table
 A close, comfortable, usable desk that makes deep reading and note-taking feel tangible. Book, selected passage, marginalia, research expansion and export are the main visual hierarchy. This is the **first interaction to fully implement**.
