@@ -1,0 +1,72 @@
+{
+  "schema_version": "0.1.0",
+  "status": "editorial_draft_not_verified_in_game",
+  "provenance": "TDA original journal prompts; not user-generated entries",
+  "rights_note": "Original TDA writing; publication and licensing terms reserved to project owner.",
+  "languages": [
+    "en",
+    "ko"
+  ],
+  "prompts": [
+    {
+      "id": "journal-001",
+      "en": "What title made you stop today, and why?",
+      "ko": "오늘 어떤 책 제목 앞에서 발걸음을 멈췄나요? 왜였을까요?"
+    },
+    {
+      "id": "journal-002",
+      "en": "What subject do you know almost nothing about, but wish you did?",
+      "ko": "거의 아는 것이 없지만 언젠가 깊이 알아보고 싶은 주제는 무엇인가요?"
+    },
+    {
+      "id": "journal-003",
+      "en": "Draw the shape of a question you've been carrying.",
+      "ko": "오랫동안 마음에 품고 있던 질문의 모양을 그려 보세요."
+    },
+    {
+      "id": "journal-004",
+      "en": "Describe a place that exists only while you're reading.",
+      "ko": "책을 읽는 동안에만 존재하는 장소를 묘사해 보세요."
+    },
+    {
+      "id": "journal-005",
+      "en": "What ordinary mechanism still amazes you?",
+      "ko": "익숙한 물건이나 장치 중 아직도 신기하게 느껴지는 것은 무엇인가요?"
+    },
+    {
+      "id": "journal-006",
+      "en": "Make a little field guide to things you notice on rainy days.",
+      "ko": "비 오는 날에만 눈에 띄는 것들로 작은 관찰 도감을 만들어 보세요."
+    },
+    {
+      "id": "journal-007",
+      "en": "Which two books have no obvious reason to belong together?",
+      "ko": "전혀 어울리지 않을 것 같은 책 두 권을 한자리에 놓는다면 무엇을 고르겠어요?"
+    },
+    {
+      "id": "journal-008",
+      "en": "What would you put in a cabinet of curiosities?",
+      "ko": "당신만의 호기심 진열장에는 무엇을 넣고 싶나요?"
+    },
+    {
+      "id": "journal-009",
+      "en": "Keep a record of a beautiful failed experiment.",
+      "ko": "실패했지만 아름다웠던 실험 하나를 기록해 보세요."
+    },
+    {
+      "id": "journal-010",
+      "en": "What have you changed your mind about?",
+      "ko": "한때 확신했지만 지금은 생각이 달라진 것이 있나요?"
+    },
+    {
+      "id": "journal-011",
+      "en": "Catalogue a sound you'd like to remember.",
+      "ko": "잊고 싶지 않은 소리 하나를 수집하고 묘사해 보세요."
+    },
+    {
+      "id": "journal-012",
+      "en": "Write a note to the person who finds this book after you.",
+      "ko": "당신 다음으로 이 책을 발견할 사람에게 쪽지를 남겨 보세요."
+    }
+  ]
+}
